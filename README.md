@@ -1,8 +1,8 @@
-# photo_displayer
+# Flutter assignment- 3
 
-A new Flutter project.
+Album Displayer
 
-## Getting Started
+## Bemnet Asseged        UGR/2591/15               SECTION-2
 
 This project is a starting point for a Flutter application.
 
